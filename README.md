@@ -12,7 +12,7 @@
 	* add `i3bar_command i3bar --transparency` to bar configuration
 - paste `.Xdefaults` into `~`
 - paste `colorschemes` into `~/.config/ranger`
-- in `rc.conf change `set colorscheme custom # default`
+- in `rc.conf` change `set colorscheme custom # default`
 
 # Resources
 - https://www.gnome-look.org/p/1305251/ (candy-icons Icon Theme)
