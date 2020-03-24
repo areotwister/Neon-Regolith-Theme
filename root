@@ -1,0 +1,16 @@
+! -- Styles - Colors
+#include "/etc/regolith/styles/custom/color"
+
+! -- Styles - Fonts
+#include "/etc/regolith/styles/custom/typeface"
+
+! -- Styles - Theme
+#include "/etc/regolith/styles/custom/theme"
+
+! -- Applications
+! These files map values defined above into specific app settings.
+#include "/etc/regolith/styles/st-term"
+#include "/etc/regolith/styles/custom/i3-wm-custom"
+#include "/etc/regolith/styles/custom/i3xrocks-custom"
+#include "/etc/regolith/styles/custom/rofi-custom"
+#include "/etc/regolith/styles/gnome"

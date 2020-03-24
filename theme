@@ -1,0 +1,10 @@
+#define gtk_theme           Sweet-Dark
+#define icon_theme          candy-icons
+#define desktop_wallpaper   /etc/regolith/styles/custom/city.jpg 
+#define rofi_theme          /etc/regolith/styles/custom/rofi.rasi
+
+#define i3wm_window_border_size         1
+#define i3wm_floatingwindow_border_size 1
+#define i3wm_gaps_inner_size            10
+#define i3wm_gaps_outer_size            0
+#define i3wm_bar_position               top

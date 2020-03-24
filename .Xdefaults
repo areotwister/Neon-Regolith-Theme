@@ -1,0 +1,55 @@
+URxvt*font:              xft:Source Code Pro:size=12:antialias=true:autohint=true
+# urxvt*font:             xft:Bitstream Vera Sans Mono:size=12
+# urxvt*termName:         rxvt
+# urxvt*background:       #000000
+urxvt*foreground:       #cccccc
+urxvt*scrollBar:        false
+# urxvt*perl-lib:         /usr/lib/urxvt/perl/
+# urxvt*perl-ext-common:  default,matcher
+# urxvt*urlLauncher:      /usr/bin/jumanji
+# urxvt*matcher.button:   1
+# urxvt*fading:           50
+# urxvt*fadeColor:        #000000
+# 
+# Xft*dpi:                96
+# Xft*antialias:          true
+# Xft*hinting:            full
+  
+# urxvt*background:       rgba:0000/0000/0000/cccc
+
+URxvt.transparent:   true
+# URxvt.tintColor:     white
+URxvt.shading:       20 
+ 
+! black
+URxvt*color0:      #000000
+URxvt*color8:      #666666
+
+! red
+URxvt*color1:      #8b1915
+URxvt*color9:      #f62a23
+
+! green
+URxvt*color2:      #46a72b
+URxvt*color10:     #8bf56d
+
+! yellow
+URxvt*color3:      #d8de2a
+URxvt*color11:     #f6fc54
+
+! blue
+URxvt*color4:      #0b4253
+URxvt*color12:     #2c7890
+
+! magenta
+URxvt*color5:      #a40082
+URxvt*color13:     #f342ce
+
+! cyan
+URxvt*color6:      #1a8990
+URxvt*color14:     #29e5f1
+
+! white
+URxvt*color7:      #cccccc
+URxvt*color15:     #ffffff
+
