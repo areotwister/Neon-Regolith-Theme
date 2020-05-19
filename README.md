@@ -13,6 +13,7 @@
 - paste `.Xdefaults` into `~`
 - paste `colorschemes` into `~/.config/ranger`
 - in `rc.conf` change `set colorscheme custom # default`
+- comment `Theme = black_theme` and uncomment `XTermTheme = transparent-background` in `~/.moc/config`
 
 # Resources
 - https://www.gnome-look.org/p/1305251/ (candy-icons Icon Theme)
